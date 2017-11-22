@@ -1,4 +1,4 @@
-# retain-cycle-cheat-sheet
+# Retain Cycle Cheat Sheet
 
 ## #1: An object must never retain its parent
 
